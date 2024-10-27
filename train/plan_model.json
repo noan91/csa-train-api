@@ -1,54 +1,57 @@
 {
     "gymTrainingPlan": {
-      "goal": "",
-      "duration": "12 weeks",
-      "weekPlan": [
-        {
-          "day": "monday",
-          "dayName": "legs + shoulders",
-          "sets": [
+        "weeks": [
             {
-              "name": "squats",
-              "reps": 20,
-              "weight": 20
-            },
-            {
-              "name": "shoulder press",
-              "reps": 20,
-              "weight": 5
-            },            
-            {
-                "name": "squats",
-                "reps": 20,
-                "weight": 20
-            },
-            {
-                "name": "shoulder press",
-                "reps": 20,
-                "weight": 5
-            },  
-            {
-                "name": "squats",
-                "reps": 20,
-                "weight": 40
-            },
-            {
-                "name": "shoulder press",
-                "reps": 20,
-                "weight": 10
-            },
-            {
-                "name": "squats",
-                "reps": 20,
-                "weight": 40
-            },
-            {
-                "name": "shoulder press",
-                "reps": 20,
-                "weight": 10
+                "weekName": "statring",
+                "days": [
+                    {
+                        "dayOfWeek": "monday",
+                        "dayName": "legs + shoulders",
+                        "sets": [
+                            {
+                                "name": "squats",
+                                "reps": 20,
+                                "weight": 20
+                            },
+                            {
+                                "name": "shoulder press",
+                                "reps": 20,
+                                "weight": 5
+                            },
+                            {
+                                "name": "squats",
+                                "reps": 20,
+                                "weight": 20
+                            },
+                            {
+                                "name": "shoulder press",
+                                "reps": 20,
+                                "weight": 5
+                            },
+                            {
+                                "name": "squats",
+                                "reps": 20,
+                                "weight": 40
+                            },
+                            {
+                                "name": "shoulder press",
+                                "reps": 20,
+                                "weight": 10
+                            },
+                            {
+                                "name": "squats",
+                                "reps": 20,
+                                "weight": 40
+                            },
+                            {
+                                "name": "shoulder press",
+                                "reps": 20,
+                                "weight": 10
+                            }
+                        ]
+                    }
+                ]
             }
-          ]
-        }
-      ]
+        ]
     }
-  }
+}
